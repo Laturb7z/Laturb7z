@@ -1,5 +1,5 @@
- ## Olá, meu nome é Vitor Almeida (Laturb7z) 👨🏽‍💻
-- 📆 Tenho 19 anos
+ ## Olá, meu nome é Vitor (Laturb7z) 👨🏽‍💻
+- 📆 Tenho 21 anos
 - 💼 Desenvolvedor back-end
 - 🎓 Software Engineering Student
 - 📚 Estudando Node / React / MySql
@@ -8,7 +8,6 @@
 <div>
 <a href="https://instagram.com/javaehruim" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
 <a href="https://discord.com/users/558514752947617792" target="_blank"><img src="https://img.shields.io/badge/discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289DA">
-<a href="mailto:vitoralmlt023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836">
 </div>
 <div>
 <a href="htpps://github.com/Laturb7zf">
